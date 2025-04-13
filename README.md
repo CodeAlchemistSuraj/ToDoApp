@@ -23,6 +23,7 @@ Tasks displayed in a responsive table layout.
 
 🛠️ Tech Stack
 Frontend: React, Axios, CSS
+
 Backend: Spring Boot, Spring Data JPA, Hibernate Validator, H2 Database
 
 Tools: Maven, Postman, VS Code, IntelliJ IDEA
